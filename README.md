@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Candida Noronha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NaDo2383&theme=algolia" alt="candida18"  /></p>
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
