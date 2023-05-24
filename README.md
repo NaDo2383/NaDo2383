@@ -8,15 +8,11 @@
     <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,nextjs,ts&perline=14" />
   </a>
 
-### 👉 Databases
+### 👉 Backend, Databases
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,react,tailwind,html,css,discord,figma,github,js,mysql,nextjs,nodejs,postman,ts,mongodb,express,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,mysql,mongodb&perline=14" />
   </a>
-  
-### 👉Graphic Designing
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,react,tailwind,html,css,discord,figma,github,js,mysql,nextjs,nodejs,postman,ts,mongodb,express,vscode&perline=14" />
-  </a>
+ 
 
 <br/>
 
